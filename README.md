@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/59/99/54599963251bc003943e604cb9a1d15c.gif" width="300" alt="Welcome GIF" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="300" alt="Welcome GIF" />
 </p>
 
 <h1 align="center">Hi, I'm Santhosh 👋</h1>
